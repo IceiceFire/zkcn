@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Class-Path: lib/zookeeper-3.4.6.jar lib/slf4j-api-1.6.1.jar lib/slf4j-
+ log4j12-1.6.1.jar lib/log4j-1.2.16.jar lib/jline-0.9.94.jar lib/netty
+ -3.7.0.Final.jar
+Build-Jdk: 1.7.0_71
+Built-By: 11150421050193
+Created-By: Maven Integration for Eclipse
+Main-Class: zkcn.App
+
