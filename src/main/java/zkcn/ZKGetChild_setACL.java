@@ -14,7 +14,7 @@ import org.apache.zookeeper.data.Stat;
 
 public class ZKGetChild_setACL {
 
-	// 会话超时时间，设置为与系统默认时间一致
+	// 会话超时时间，设置为与系统默认时间一致11
 
 	private static final int SESSION_TIMEOUT = 30000;
 
