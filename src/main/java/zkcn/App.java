@@ -9,8 +9,8 @@ import org.apache.zookeeper.WatchedEvent;
 import org.apache.zookeeper.Watcher;
 import org.apache.zookeeper.ZooKeeper;
 
-public class App {
-
+public class App {地方似懂非懂三
+	// dfsd
 	private static int CONNECTION_TIMEOUT = 3000;
 
 	static ZooKeeper zk = null;
