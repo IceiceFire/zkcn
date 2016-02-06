@@ -13,7 +13,7 @@ public class App {
 
 	private static int CONNECTION_TIMEOUT = 3000;
 	
-	// dfdfsfsfssf
+	// dfdfsfsfssfdddddddddd
 	static ZooKeeper zk = null;
 	static List<String> tmpList = null;
 
